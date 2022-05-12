@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWTMaster.App", "JWTMaster.App\JWTMaster.App.csproj", "{7472A5F1-FEED-48BB-84D6-67528510682F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTMaster.Service", "JWTMaster.Service\JWTMaster.Service.csproj", "{24730605-BFAE-48F4-8CF8-B7EA003B136C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7472A5F1-FEED-48BB-84D6-67528510682F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7472A5F1-FEED-48BB-84D6-67528510682F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7472A5F1-FEED-48BB-84D6-67528510682F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7472A5F1-FEED-48BB-84D6-67528510682F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24730605-BFAE-48F4-8CF8-B7EA003B136C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24730605-BFAE-48F4-8CF8-B7EA003B136C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24730605-BFAE-48F4-8CF8-B7EA003B136C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24730605-BFAE-48F4-8CF8-B7EA003B136C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6C9D3D8-FDF8-471A-9FB2-B977468241C6}
+	EndGlobalSection
+EndGlobal

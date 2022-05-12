@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h6>Your Session is Just 30 Seconds After SignIn</h6>
+<a class="btn btn-primary" asp-action="SignIn">Signin</a>
+<a class="btn btn-primary" asp-action="AdminPage">Admin Page</a>
+
+<div>
+@ViewBag.Token
+</div>
